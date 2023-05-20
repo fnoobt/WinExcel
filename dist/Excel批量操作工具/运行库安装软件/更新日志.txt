@@ -1,0 +1,8 @@
+更新日志
+
+　　* 更新 Microsoft Visual C++ 2017(14.14.26429)
+　　* 更新 Microsoft Visual C++ 2017(14.14.26329)
+　　* 更新 Microsoft Visual C++ 2017(14.13.26020)
+　　* 更新 Microsoft Visual C++ 2017(14.12.25810)
+　　* 不再集成 Microsoft Visual C++ 2015 （已被2017彻底取代）
+　　* 修正Visual C++ 2017安装完毕未在“添加和删除程序”列表显示的问题

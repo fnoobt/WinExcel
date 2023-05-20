@@ -1,0 +1,18 @@
+missing module named 'win32com.gen_py' - imported by win32com, d:\users\cmcc\appdata\local\programs\python\python36-32\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_win32comgenpy.py
+missing module named resource - imported by posix, D:\PythonProject\pytkinter\winexcel\main.py
+missing module named posix - imported by os, D:\PythonProject\pytkinter\winexcel\main.py
+missing module named _posixsubprocess - imported by subprocess, D:\PythonProject\pytkinter\winexcel\main.py
+missing module named org - imported by pickle, D:\PythonProject\pytkinter\winexcel\main.py
+missing module named readline - imported by cmd, code, pdb, D:\PythonProject\pytkinter\winexcel\main.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, D:\PythonProject\pytkinter\winexcel\main.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, D:\PythonProject\pytkinter\winexcel\main.py
+missing module named _winreg - imported by platform, D:\PythonProject\pytkinter\winexcel\main.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, D:\PythonProject\pytkinter\winexcel\main.py
+missing module named 'java.lang' - imported by platform, D:\PythonProject\pytkinter\winexcel\main.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, D:\PythonProject\pytkinter\winexcel\main.py
+missing module named termios - imported by tty, D:\PythonProject\pytkinter\winexcel\main.py, getpass
+missing module named grp - imported by shutil, tarfile, D:\PythonProject\pytkinter\winexcel\main.py
+missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, D:\PythonProject\pytkinter\winexcel\main.py, netrc, getpass
+missing module named 'org.python' - imported by copy, D:\PythonProject\pytkinter\winexcel\main.py, xml.sax
+missing module named _dummy_threading - imported by dummy_threading, D:\PythonProject\pytkinter\winexcel\main.py
